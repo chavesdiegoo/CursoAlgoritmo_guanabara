@@ -1,0 +1,11 @@
+algoritmo "primeiro"
+// Função :
+// Autor :   chavesdiego
+// Data : 02/03/2023
+// Seção de Declarações 
+var
+
+inicio
+escreval ("Olá Mundo!")
+escreval ("Liberto da maldição")
+fimalgoritmo
