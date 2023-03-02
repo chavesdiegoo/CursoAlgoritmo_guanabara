@@ -5,7 +5,14 @@ algoritmo "primeiro"
 // Seção de Declarações 
 var
 
+algoritmo "primeiro"
+// Função :
+// Autor :   chavesdiego
+// Data : 02/03/2023
+// Seção de Declarações 
+var
+       msg : caractere
 inicio
-escreval ("Olá Mundo!")
-escreval ("Liberto da maldição")
+msg <- ("Olá Mundo!")
+escreval (msg)
 fimalgoritmo
